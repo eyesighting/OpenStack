@@ -19,6 +19,7 @@
 | 14 | OpenROB | 机器人 | https://github.com/eyesighting/OpenROB |
 | 15 | OpenAERO | 飞行器 | https://github.com/eyesighting/OpenAERO |
 | 16 | OpenMP | 移动手机 | https://github.com/eyesighting/OpenMP |
+| 17 | OpenEMB | 嵌入式 | https://github.com/eyesighting/OpenEMB |
 | 17 | OpenSP | 传感器 | https://github.com/eyesighting/OpenSP |
 | 18 | OpenHMI | 人机交互 | https://github.com/eyesighting/OpenHMI |
 | 19 | OpenIT | 信息技术 | https://github.com/eyesighting/OpenIT |
